@@ -1,0 +1,1623 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:u1="urn:schemas-    microsoft-com:office:excel">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <Iteration/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m58822716">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Microsoft Sans Serif" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m58822736">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Microsoft Sans Serif" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m58822756">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Microsoft Sans Serif" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Microsoft Sans Serif" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Microsoft Sans Serif" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Microsoft Sans Serif" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Microsoft Sans Serif" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Microsoft Sans Serif" x:Family="Swiss"/>
+   <NumberFormat ss:Format="0.0000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Page1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="252" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62">
+   <Column ss:StyleID="s62" ss:Width="80.25"/>
+   <Column ss:StyleID="s62" ss:Width="120" ss:Span="2"/>
+   <Row>
+    <Cell ss:MergeAcross="3" ss:StyleID="s64"><Data ss:Type="String">Exchange Rates of   HONG KONG DOLLAR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="3" ss:StyleID="s64"><Data ss:Type="String">between 1 January 2014 and  31 December 2014</Data></Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:MergeAcross="3" ss:StyleID="s66"><Data ss:Type="String">( BAHT / 1 HONG KONG DOLLAR)   </Data></Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell ss:MergeDown="1" ss:StyleID="m58822716"><Data ss:Type="String">Date </Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m58822736"><Data ss:Type="String">Average Buying Rates </Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m58822756"><Data ss:Type="String">Average Selling Rates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s67"><Data ss:Type="String">Sight Bill </Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Transfer </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">05 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0358000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0518000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1002999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">06 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.01</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0267999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0787000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9943</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0115999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0585000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9855999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0035999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0510000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9824000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0006000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0506000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">12 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9757999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9919000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0418000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">13 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9695999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9856999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0350999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">14 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9741999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9901</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0406000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">15 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9863999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0038999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0495000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.984</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0011000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0488</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9863</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0027999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0507999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9886999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0049999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0545999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">21 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9844999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0004999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0477999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9842000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0011000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0507999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9863999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0030000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0507</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0114000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0275999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0755999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0190000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0358999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0831999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">28 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9984000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0145</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0617999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0061999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0223000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0712999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Jan 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0114000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0290999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0773999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">02 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0023</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0183</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0686</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">03 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9999000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0156000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0654000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">04 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9847999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0015999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0502000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">05 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9798</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9965000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0457999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">06 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9873000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0046999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0533999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9835000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9997999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0471000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">10 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9800000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9961000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0454999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">11 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9696999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9855999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0340999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">12 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9625000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9789000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0290999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">13 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9695</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9856999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0358000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9649000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9810999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0312999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">17 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9806999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9968000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0464000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">18 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9804000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9972000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.048</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9897</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0061999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0549999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9984999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0148000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0606</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0118</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0281000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0742000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">24 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0095999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0269000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0740999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">25 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9988999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0144000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0629999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0052000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0210999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0704000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 Feb 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0137</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0293999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0758999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">01 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0044000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0195999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0689000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">02 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0038999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0193000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0702999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">03 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0179999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0339</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0831</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">04 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0313999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0490000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0952000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0354999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0509000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0983999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0080999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0247000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0724999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">10 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0132000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0297999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0787000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">11 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0160999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0331999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0814000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">12 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0164999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0321999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0772000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">15 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0214999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0380000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0850999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0297000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0452000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0914999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">17 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0235000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0380000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0838000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">18 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0247000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0408999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0865</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0145</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0316000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0803000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0270999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0425000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0909000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0242000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0400999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0857999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">24 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0281000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0438999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0918000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">25 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0308999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0465999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0945</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0362999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0519999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0975999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0305</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0461</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0925000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0366</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0528000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0975999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">31 Mar 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0237999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0378999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0848000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">01 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9939</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0094000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0551000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">02 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9927000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0082000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0560999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">05 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9833999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0007000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0498000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9835000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0448000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9744999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9896000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0362999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9821</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9985999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0461999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">12 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9836</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0472000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0228000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0381999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0843999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0034999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0198</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0671999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0087000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0260999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0728999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">21 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0232999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0392000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0861999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0400999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.056</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1009000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0397999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0552999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1002999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0364000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0518999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0987999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0403000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0567000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1039000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">28 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0575000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0727000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1170999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0782999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0938999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1391999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Apr 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0888999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1039000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1512000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">04 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0812999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0972</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1440000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">06 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0624000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0781000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1237000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0842999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1006</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1471999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">10 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1395</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1551999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2007000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">11 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1654999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.181</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2275</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">12 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1543000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.17</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2161999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">13 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1722000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1889000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2339000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">14 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.194</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2106000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2569999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">17 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1936999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2088999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2539999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">18 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2019000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2180999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2636000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1840000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1992000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2416</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1868999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2027000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2473000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">21 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1962000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2123999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2588999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">24 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1866000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2031000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2488999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">25 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1955999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2103000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2607999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1855000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2016999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2500999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1855000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2011000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2489999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">28 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1665000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1828000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">31 May 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1593999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1755000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2213000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">01 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1696999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1862000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2321999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">03 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1742999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1896000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2388000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">04 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1811999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1974</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2465000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1679000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1840000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2304000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1616</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1772999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2279</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1634000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1798000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2275999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">10 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1703999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1875</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2362000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">11 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1757</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1910999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2380000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">14 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1958000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2122000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2614999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">15 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2176999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2328000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2801999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2035</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2183999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2666000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">17 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2133000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2286999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2752999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">18 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2035999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2194000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2672999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">21 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2039999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2202000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2691999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2142999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2295999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2770999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2141999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2295999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2755999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">24 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2091000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2247000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2743000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">25 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1948999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2106000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2591000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">28 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2050999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2209000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2683999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2037000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.22</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2689000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Jun 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2073999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2229000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2721</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">02 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1909999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2073</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2538</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">05 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1788999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1951000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2420999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">06 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1932</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2088999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2573999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1906999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2060000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2545000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1882000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2039</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2519</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1901999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2058</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2527999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">12 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1776</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1935000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2411000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">13 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1822999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1978999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2441000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">14 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1856999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2012</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2484999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">15 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1927000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2091000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2553999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1978999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2141000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2618999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1879</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2039999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2504</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1898999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2054999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2534999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">21 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1980000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2154999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2617000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2195</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2352999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2812999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2178000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.234</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2811000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2293000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2458</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2946999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2446999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2606000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3098000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">28 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2676999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2834000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3310000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2709999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2862999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3333000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Jul 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2645</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2804000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3280000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">03 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2587000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2756999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3212000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">04 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2675000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2839</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3315999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">05 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2740999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2907000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3380000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">06 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2770000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2927999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2657999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2824</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3310000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">10 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2641999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2808000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3299000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">11 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2798999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2957000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3426</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">13 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2874999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3036000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3486000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2840999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2999000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3482000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">17 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2816999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2976999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3456999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">18 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2779999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2939999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3426</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2774999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2934999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3429000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2709999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2869999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3361999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2724000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2882999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3352000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">24 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2789000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2945000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3440000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">25 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2805999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2961999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3426</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3064999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3224</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3677000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2965999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3128000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3597000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3010999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3174000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3628</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">31 Aug 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2986000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3148</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3628999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">01 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2933000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3102</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3571999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">02 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2939999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3105000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3593999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">03 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2836999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2992999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3479999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">06 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2929000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3094000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3587999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2999000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3155999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3642000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.298</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3146000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3647999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2942</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3106</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3579999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">10 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2896999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3056000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3552</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">13 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2858000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3018000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3529</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">14 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2690000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2850000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3324999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">15 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2481</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2637999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3135000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2497999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2652000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3152999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">17 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2481</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2638999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3131000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2526000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2686000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3167999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">21 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2591000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2760999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3258999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2512999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2670000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3182</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2706</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2862999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3350999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">24 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2675000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2838000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3331999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2778</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2930000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3419999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">28 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2912999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3074000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3537999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2885999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3052000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3548999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Sep 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2793999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2952000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3441000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">01 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2706</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2870999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3333000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">04 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2694000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2857000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3338999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">05 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2645999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2815000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3278999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">06 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2742000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2906000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3383000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2716000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2874999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3358999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2652999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2827000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3296999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">11 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2583000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2743000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3236999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">12 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2633999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2808000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">13 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2663000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2836999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3308</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">14 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2786999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2946</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3422999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">15 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2770999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2922000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3391000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">18 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2826000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2983000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3456000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2763</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2922000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3388</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2690999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2847999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3316999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">21 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2672999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2830000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3299000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2683</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2838000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3319000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2359</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2530000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3000999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2350000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2523999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3022</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">28 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2389000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2545999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3009000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Oct 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2359999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2523</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3003999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">01 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2352999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2523999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3014000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">02 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2367999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2526000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3028000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">03 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2397</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2550999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3030999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">04 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2415000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2568000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.3055000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">05 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2225000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2380000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2870999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2119999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2274000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2735000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1993</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2157</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2634999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">10 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1889000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2041000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2553999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">11 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1933999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2091000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2575000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">12 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1696</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1848000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2333999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">15 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1516000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1670999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2149999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1577999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1738</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2196999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">17 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1403999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1563999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.2046000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">18 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1196000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1356000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1828000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">19 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.125</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1403999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1859999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.093</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1090999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1546000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0904999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1060999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1528</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">24 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0724</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0879000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1352000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">25 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0589000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0743999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1218000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">26 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.032</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0468999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0934999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0370999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0536000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1025999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Nov 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0471000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0632999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1097000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">01 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0243000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0404</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0869999999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">02 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0029000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0183999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0655999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">03 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0312000000000001</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0457999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0925000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">07 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0071000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0228999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0686999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">08 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0163000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0316999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0781000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">09 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0346000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0492999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0949</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">13 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0537999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.07</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1177999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">14 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0255999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0408999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0884999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">15 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0433000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0590999999999999</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.1051000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">16 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0054999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0210999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0678999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">17 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0077999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0227000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0698999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">20 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9917999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0079000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.056</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">21 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9827000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9977999999999998</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0441000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">22 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9763000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9919000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0419999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">23 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9740000000000002</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9892000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0396999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">24 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9718</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9873000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0357000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">27 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9865000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0025000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0503999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">28 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9724000000000004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9888000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0373999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">29 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9825999999999997</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9995000000000003</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0476999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">30 Dec 2004</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">4.9894999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0054999999999996</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="Number">5.0519999999999996</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0" x:Left="0" x:Right="0" x:Top="0.5"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

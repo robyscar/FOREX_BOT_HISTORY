@@ -1,0 +1,52 @@
+https://www.bot.or.th/content/bot/en/statistics/exchange-rate/jcr:content/root/container/statisticstable1.results.level3cache.daily.2019-01-01.2019-12-31.USD$GBP$EUR$JPY$HKD$MYR$SGD.json
+
+
+
+1)	USD GBP EUR JPY HKD MYR SGD
+2)	MYR	PHP	IDR	CHF	AUD	NZD	CAD
+3)	CNY	MXN	KRW	TWD	RUB	VND
+
+
+https://www.bot.or.th/content/bot/en/statistics/exchange-rate/jcr:content/root/container/statisticstable1.results.level3cache.daily.
+
+2018-01-01.
+2018-12-31.
+
+.USD$GBP$EUR$JPY$HKD$MYR$SGD.json
+.MYR$PHP$IDR$CHF$AUD$NZD$CAD.json
+.CNY$MXN$KRW$TWD$RUB$VND.json
+
+
+https://www.bot.or.th/content/bot/en/statistics/exchange-rate/jcr:content/root/container/statisticstable1.results.level3cache.daily.2018-01-01.2018-12-31.USD$GBP$EUR$JPY$HKD$MYR$SGD.json
+
+
+https://www.bot.or.th/content/bot/en/statistics/exchange-rate/jcr:content/root/container/statisticstable1.results.level3cache.daily.2019-01-01.2019-12-31.MYR$PHP$IDR$CHF$AUD$NZD$CAD.json
+
+
+
+wget https://www.bot.or.th/content/bot/en/statistics/exchange-rate/jcr:content/root/container/statisticstable1.results.level3cache.daily.2025-01-01.2025-12-31.USD$GBP$EUR$JPY$HKD$MYR$SGD.json
+
+
+
+App_Exchange Rates
+Daily Foreign Exchange Rates
+https://www.bot.or.th/en/statistics/exchange-rate.html
+
+App_Forward Points
+Indicative forward points-outright (Thai only)
+https://app.bot.or.th/ForwardPoints/
+
+FM_FX_001
+Rates of Exchange of Commercial Banks in Bangkok Metropolis (1981-1995)
+https://app.bot.or.th/BTWS_STAT/statistics/BOTWEBSTAT.aspx?reportID=121&language=ENG
+
+FM_FX_001_S2
+Rates of Exchange of Commercial Banks in Bangkok Metropolis (1996-2001)
+https://app.bot.or.th/BTWS_STAT/statistics/BOTWEBSTAT.aspx?reportID=122&language=ENG
+
+FM_FX_001_S3
+Rates of Exchange of Commercial Banks in Bangkok Metropolis (2002-present)
+https://app.bot.or.th/BTWS_STAT/statistics/BOTWEBSTAT.aspx?reportID=123&language=ENG
+
+
+
